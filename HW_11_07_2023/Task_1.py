@@ -6,29 +6,29 @@
 
 class Main:
     def __init__(self, string):
-        self.string = string
-        self.empty = None
-        self.example = 'some string'
+        self.__string = string
+        self.__empty = None
+        self.__example = 'some string'
 
     def get_info(self):
-        if len(self.string) > 5:
-            self.empty = 'The length input string more than five'
-        elif len(self.string) == 5:
-            self.empty = 'The length input string is equal to five'
+        if len(self.__string) > 5:
+            self.__empty = 'The length input string more than five'
+        elif len(self.__string) == 5:
+            self.__empty = 'The length input string is equal to five'
         else:
-            self.empty = 'The length input string less than five'
-        print(f'Input string is: {self.string}\n{self.empty}')
+            self.__empty = 'The length input string less than five'
+        print(f'Input string is: {self.__string}\n{self.__empty}')
         print()
 
 
 class Side(Main):
     def __init__(self, string, integer):
         super().__init__(string)
-        self.string = string
-        self.integer = integer
+        self.__string = string
+        self.__integer = integer
 
     def get_info(self):
-        print(f'Input string form main class: {self.string}\nInput integer is: {self.integer}')
+        print(f'Input string form main class: {self.__string}\nInput integer is: {self.__integer}')
         print()
 
 
@@ -39,3 +39,5 @@ a.get_info()
 ch_int = int(input('Enter integer: '))
 b = Side(ch_str, ch_int)
 b.get_info()
+
+# Данное задание выполнено с использованием полиморфизма, аргументы класса выполнены через инкапсуляцию.
