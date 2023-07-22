@@ -1,0 +1,88 @@
+.bd{
+    background-color: #e2f5e4;
+
+}
+span{
+    margin: 0 15%;
+}
+.container{
+    background-color: #cececa;
+    min-height: 350px;
+    max-width: 40%;
+    width: 26%;
+    margin: 40px 35%;
+    border: 2px solid black;
+}
+.main_text{
+    margin: 40px 27% 40px 23%;
+}
+.value_text{
+    margin: 20px 5%;
+    word-wrap: break-word;
+}
+.p_main{
+    margin: 10px 20%;
+    font-weight: bold;
+    font-size: 1.6em;
+    font-family: Arial sans-serif;
+}
+.p_into{
+    margin: 20px 10%;
+    font-weight: bold;
+    font-size: 1.6em;
+    font-family: Arial sans-serif;
+    word-wrap: break-word;
+}
+.p_into_under{
+    margin: 20px 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: Arial sans-serif;
+}
+.p_ward{
+    margin: 20px 10px;
+}
+
+.t_container{
+    min-height: 350px;
+    max-width: 50%;
+    width: 45%;
+    margin: 40px 30% 0;
+    border: 5px solid black;
+}
+.t_p_into{
+    margin: 15px 13px;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: Arial sans-serif;
+}
+.t_p_under{
+    margin: 1px 13px;
+    font-size: 0.75em;
+    font-weight: bold;
+    font-family: Arial sans-serif;
+}
+.im_main{
+    max-height: 400px;
+    max-width: 85%;
+    margin: 5px 10px;
+    border: 5px solid black;
+}
+.content_text{
+    margin: 15px 13px;
+    width: 90%;
+    font-size: 0.75em;
+}
+.t_other{
+    min-height: 200px;
+    max-width: 50%;
+    width: 45%;
+    margin: 0 30%;
+    border: 5px solid black;
+}
+.analog{
+    max-height: 200px;
+    max-width: 20%;
+    margin: 5px 10px;
+    border: 3px solid grey;
+}

@@ -7,7 +7,6 @@ import openpyxl as oxl
 from openpyxl.styles import Alignment, Font, Border, Side
 
 
-
 class Task1:
     def __init__(self):
         self.columns = ['A', 'B', 'C', 'D', 'E']

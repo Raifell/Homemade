@@ -1,0 +1,53 @@
+body{
+    background-color: grey;
+}
+*{margin: 0;}
+section{
+    max-width: 900px;
+    margin: 0 auto;
+}
+h3{
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: grey;
+    background: white;
+    padding: 50px 0;
+
+}
+.cont{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background: white;
+    max-width: 900px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.item img{
+    margin: 12px 0;
+}
+.item h4{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: royalblue;
+    padding: 0 0 12px;
+}
+p{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: grey;
+    background-color: white;
+    padding: 12px 0 0;
+}

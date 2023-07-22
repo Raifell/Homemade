@@ -1,0 +1,7 @@
+Name Model Price
+Phone Samsung 150
+Phone Sony 200
+Phone Xiaomi 50
+Notebook MSI 700
+Notebook Acer 500
+Notebook Dell 450
