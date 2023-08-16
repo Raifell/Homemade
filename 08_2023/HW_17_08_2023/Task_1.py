@@ -50,6 +50,7 @@ def connection(url):
 def main2():
     url = 'https://loremflickr.com/320/240'
     count = [connection(url) for _ in range(10)]
+    del count
 
 
 if __name__ == '__main__':
