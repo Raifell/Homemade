@@ -1,0 +1,85 @@
+h2{
+    text-align: center;
+}
+.hr-line{
+	margin: 0 40px;
+	border: none;
+	border-top: 1px solid #828282;
+}
+.main{
+    width: 100vw;
+    height: 80vh;
+    margin: 0 auto;
+    padding: 80px 0;
+    background: #7c8496;
+    display: flex;
+    justify-content: center;
+}
+.content1{
+    padding: 20px 0;
+    width: 400px;
+    height: 50%;
+    max-width: 400px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 20px;
+}
+.content2{
+    padding: 20px 0;
+    width: 400px;
+    height: 85%;
+    max-width: 400px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 20px;
+}
+.application{
+    margin: 0 auto;
+    width: 300px;
+    max-width: 300px;
+    height: 70px;
+    color: #11999E;
+}
+.intro{
+    margin: 0 auto;
+    width: 300px;
+    height: 200px;
+    max-width: 300px;
+
+}
+.nam{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.nam .input{
+    border-radius: 4px;
+    padding: 6px;
+}
+label[for="check"]{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.move{
+    margin: 0 auto;
+    width: 300px;
+    height: 50px;
+    max-width: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+.move .go{
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #30e3cb;
+    background: #30e3cb;
+}
+.move .go:hover{
+    border: 1px solid #453e7b;
+}

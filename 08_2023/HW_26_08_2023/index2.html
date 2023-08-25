@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Task_1</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <main class="main">
+        <div class="content2">
+            <div class="application">
+                <h2>Page two</h2>
+                <hr class="hr-line">
+            </div>
+            <div class="intro">
+                <form action="./index1.html" method="get" class="nam">
+                    <div>Input your name</div>
+                    <input type="text" class="input" name="fname" pattern="[a-z]{1-25}[а-я]{1-25}" required>
+                    <div>Enter your surname</div>
+                    <input type="text" class="input" name="sname" pattern="[a-z]{1-25}[а-я]{1-25}" required>
+                    <div>Enter your phone number</div>
+                    <input type="tel" value="+998" class="input" name="phone" pattern="[+]{1}[0-9]{11,14}" required>
+                    <div>Enter your e-mail</div>
+                    <input type="email" class="input" name="mail" pattern="[@]{1}[a-z]{1-25}" required>
+                    <div>Enter your password</div>
+                    <input type="password" class="input" name="pass">
+                    <div>Repeat password</div>
+                    <input type="password" class="input" name="rpass">
+                    <div class="move">
+                        <button type="submit" class="go">Go to page one</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </main>
+</body>
+</html>
