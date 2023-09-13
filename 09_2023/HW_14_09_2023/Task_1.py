@@ -8,7 +8,7 @@ cat = ['PHILOSOPHY', 'ABOUT', 'WORK', 'CONTACT', 'SOCIAL']
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', cat=cat)
 
 
 @app.route('/example')
