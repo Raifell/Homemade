@@ -1,0 +1,27 @@
+{
+   "ishkop.uz": {
+      "python": 19,
+      "sql": 18,
+      "django": 17,
+      "git": 10,
+      "rest": 10,
+      "html": 9,
+      "css": 9,
+      "fastapi": 8,
+      "flask": 7,
+      "docker": 6,
+      "nginx": 5,
+      "linux": 4,
+      "soap": 4,
+      "kafka": 4,
+      "react": 4,
+      "celery": 3,
+      "apache": 2,
+      "java": 2,
+      "unix": 1,
+      "figma": 0,
+      "php": 0,
+      "debian": 0,
+      "redist": 0
+   }
+}

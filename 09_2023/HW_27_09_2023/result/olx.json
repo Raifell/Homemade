@@ -1,0 +1,27 @@
+{
+   "olx.uz": {
+      "python": 37,
+      "sql": 17,
+      "django": 15,
+      "html": 14,
+      "css": 14,
+      "git": 9,
+      "php": 8,
+      "java": 8,
+      "docker": 7,
+      "rest": 6,
+      "linux": 5,
+      "react": 4,
+      "fastapi": 2,
+      "nginx": 2,
+      "figma": 2,
+      "celery": 2,
+      "flask": 0,
+      "apache": 0,
+      "unix": 0,
+      "soap": 0,
+      "debian": 0,
+      "kafka": 0,
+      "redist": 0
+   }
+}

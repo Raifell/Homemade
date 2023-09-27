@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/Roboto-Black.ttf")
+}
+body{
+    font-family: "Roboto";
+    display: flex;
+    justify-content: space-around;
+}
+main{
+    width: 1280px;
+    height: 1288px;
+    flex-shrink: 0;
+    background: #FAF5E5;
+    display: flex;
+    justify-content: space-between;
+}
+main a{
+    text-decoration: none;
+    cursor: pointer;
+    color: #000;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px; /* 100% */
+    letter-spacing: 2.08px;
+    text-transform: uppercase;
+}
+.column{
+    margin: 30px auto;
+    width: 404px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.column .menu_logo{
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px; /* 100% */
+    letter-spacing: 2.08px;
+    text-transform: uppercase;
+}
+.column h2{
+    font-size: 59px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 63px; /* 106.78% */
+    letter-spacing: 1.8px;
+}
+.column .menu_logo_text{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.4px; /* 140% */
+    letter-spacing: 0.32px;
+}
+.column .sub_text{
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33.8px; /* 130% */
+    letter-spacing: 0.78px;
+}
+.text_left{
+    margin-top: 160px;
+}
+.text_right{
+    margin-bottom: 140px;
+}
+.dup{
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.dup .line_left{
+    width: 120px;
+    border: 1px solid lightgray;
+}
+.dup .line_right{
+    width: 60px;
+    border: 1px solid lightgray;
+}
+
+@media screen and (max-width:1200px) {
+    body{
+        display: flex;
+        justify-content: normal;
+    }
+    main{
+        width: 100%;
+    }
+}

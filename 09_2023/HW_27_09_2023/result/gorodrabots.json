@@ -1,0 +1,27 @@
+{
+   "gorodrabot.uz senior": {
+      "sql": 12,
+      "git": 11,
+      "java": 10,
+      "react": 10,
+      "rest": 9,
+      "html": 4,
+      "python": 3,
+      "css": 3,
+      "kafka": 2,
+      "docker": 1,
+      "django": 1,
+      "fastapi": 1,
+      "apache": 1,
+      "soap": 1,
+      "flask": 0,
+      "nginx": 0,
+      "unix": 0,
+      "linux": 0,
+      "figma": 0,
+      "php": 0,
+      "debian": 0,
+      "redist": 0,
+      "celery": 0
+   }
+}

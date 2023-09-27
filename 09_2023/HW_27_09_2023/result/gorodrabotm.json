@@ -1,0 +1,27 @@
+{
+   "gorodrabot.uz middle": {
+      "git": 19,
+      "sql": 19,
+      "rest": 13,
+      "docker": 11,
+      "php": 9,
+      "java": 6,
+      "react": 6,
+      "python": 3,
+      "linux": 3,
+      "html": 3,
+      "css": 3,
+      "fastapi": 2,
+      "soap": 2,
+      "django": 1,
+      "nginx": 1,
+      "figma": 1,
+      "flask": 0,
+      "apache": 0,
+      "unix": 0,
+      "debian": 0,
+      "kafka": 0,
+      "redist": 0,
+      "celery": 0
+   }
+}

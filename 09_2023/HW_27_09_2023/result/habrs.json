@@ -1,0 +1,27 @@
+{
+   "habr.com senior": {
+      "python": 18,
+      "django": 18,
+      "sql": 17,
+      "git": 16,
+      "rest": 14,
+      "docker": 12,
+      "kafka": 12,
+      "fastapi": 8,
+      "html": 8,
+      "css": 8,
+      "nginx": 6,
+      "linux": 6,
+      "java": 6,
+      "flask": 4,
+      "debian": 4,
+      "celery": 4,
+      "soap": 2,
+      "react": 2,
+      "apache": 0,
+      "unix": 0,
+      "figma": 0,
+      "php": 0,
+      "redist": 0
+   }
+}

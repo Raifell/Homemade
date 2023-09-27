@@ -1,0 +1,27 @@
+{
+   "hh.uz middle": {
+      "python": 19,
+      "sql": 18,
+      "django": 18,
+      "docker": 17,
+      "rest": 17,
+      "flask": 16,
+      "git": 15,
+      "celery": 14,
+      "fastapi": 10,
+      "linux": 9,
+      "html": 7,
+      "css": 7,
+      "kafka": 5,
+      "react": 4,
+      "unix": 3,
+      "php": 3,
+      "apache": 2,
+      "soap": 2,
+      "java": 2,
+      "nginx": 0,
+      "figma": 0,
+      "debian": 0,
+      "redist": 0
+   }
+}

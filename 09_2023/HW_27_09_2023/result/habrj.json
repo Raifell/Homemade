@@ -1,0 +1,27 @@
+{
+   "habr.com junior": {
+      "python": 18,
+      "django": 17,
+      "sql": 16,
+      "git": 16,
+      "java": 12,
+      "rest": 10,
+      "kafka": 10,
+      "docker": 8,
+      "linux": 8,
+      "html": 6,
+      "css": 6,
+      "soap": 4,
+      "fastapi": 2,
+      "nginx": 2,
+      "react": 2,
+      "flask": 0,
+      "apache": 0,
+      "unix": 0,
+      "figma": 0,
+      "php": 0,
+      "debian": 0,
+      "redist": 0,
+      "celery": 0
+   }
+}

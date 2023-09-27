@@ -1,0 +1,27 @@
+{
+   "habr.com middle": {
+      "python": 19,
+      "django": 19,
+      "sql": 18,
+      "git": 14,
+      "docker": 12,
+      "linux": 12,
+      "rest": 11,
+      "kafka": 10,
+      "html": 6,
+      "css": 6,
+      "fastapi": 4,
+      "celery": 4,
+      "flask": 2,
+      "nginx": 2,
+      "java": 2,
+      "react": 2,
+      "apache": 0,
+      "unix": 0,
+      "figma": 0,
+      "php": 0,
+      "soap": 0,
+      "debian": 0,
+      "redist": 0
+   }
+}

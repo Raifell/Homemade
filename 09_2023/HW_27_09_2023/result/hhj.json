@@ -1,0 +1,27 @@
+{
+   "hh.uz junior": {
+      "python": 17,
+      "sql": 16,
+      "django": 16,
+      "git": 15,
+      "rest": 14,
+      "php": 14,
+      "docker": 12,
+      "flask": 11,
+      "css": 9,
+      "fastapi": 8,
+      "linux": 8,
+      "html": 7,
+      "celery": 6,
+      "react": 5,
+      "java": 3,
+      "kafka": 3,
+      "unix": 2,
+      "soap": 2,
+      "nginx": 1,
+      "apache": 0,
+      "figma": 0,
+      "debian": 0,
+      "redist": 0
+   }
+}
