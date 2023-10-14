@@ -9,4 +9,7 @@ function check_length(li) {
     return true;
 }
 
-console.log('Задача 3 Результат:', check_length(arr_a_y))
+console.log('Проверить, все ли элементы массива имеют длину более 3х символов [\'yes\', \n' +
+    '\'hello\', \'no\', \'easycode\', \'what\']. Если да - вернуть true, иначе false');
+console.log('Задача 3 Результат:', check_length(arr_a_y));
+console.log();
